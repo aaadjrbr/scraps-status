@@ -28,10 +28,9 @@ status-website:
     - title: Back to Scr@ps
       href: https://scraps.sbs
 
-  theme: light
+  theme: dark
 
   customCss: |
-
     :root {
       --bg: #0b0716;
       --surface: rgba(21, 13, 41, 0.65);
@@ -160,7 +159,7 @@ status-website:
     }
 
     /* Cards - GLASSMORPHISM */
-    section, .card {
+    article, section, .card, [class*="bg-white"] {
       background: var(--surface) !important;
       backdrop-filter: blur(20px) saturate(120%) !important;
       -webkit-backdrop-filter: blur(20px) saturate(120%) !important;
@@ -175,7 +174,7 @@ status-website:
     }
 
     /* Subtle top reflection for glass */
-    section::after, .card::after {
+    article::after, section::after, .card::after {
       content: "";
       position: absolute;
       top: 0;
@@ -186,7 +185,7 @@ status-website:
       pointer-events: none;
     }
 
-    section:hover, .card:hover {
+    article:hover, section:hover, .card:hover {
       transform: translateY(-4px);
       border-color: var(--border-hover) !important;
       box-shadow: 0 12px 40px rgba(176, 38, 255, 0.2) !important;
