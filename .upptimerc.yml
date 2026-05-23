@@ -5,8 +5,8 @@ sites:
   - name: Scraps Homepage
     url: https://scraps.sbs
 
-  - name: Login
-    url: https://scraps.sbs/login
+  - name: Forgot Password
+    url: https://scraps.sbs/forgot-password
 
   - name: Sign Up
     url: https://scraps.sbs/signup
