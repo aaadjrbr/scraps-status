@@ -1,11 +1,19 @@
+owner: aaadjrbr
+repo: scraps-status
+
+sites:
+  - name: Scraps Homepage
+    url: https://scraps.sbs
+
 status-website:
   cname: status.scraps.sbs
-  name: Scraps Status
+  name: Scr@ps Status
   introTitle: "**SCR@PS** System Status"
   introMessage: "Real-time uptime monitoring."
-  logoUrl: https://firebasestorage.googleapis.com/v0/b/scrap-be-yourself.firebasestorage.app/o/static%2Fpixe-star.webp?alt=media&token=985f3173-ff77-4266-91f9-d6f060a157bd
+  logoUrl: https://firebasestorage.googleapis.com/v0/b/scrap-be-yourself.firebasestorage.app/o/static%2Fscrap-2dpixel-icon.webp?alt=media&token=62874557-adee-4964-b7db-a0ccf1c2b4dd
+  favicon: https://firebasestorage.googleapis.com/v0/b/scrap-be-yourself.firebasestorage.app/o/static%2Fpixe-star.webp?alt=media&token=985f3173-ff77-4266-91f9-d6f060a157bd
   navbar:
-    - title: [ Return to Scr@ps ]
+    - title: Back to Scr@ps
       href: https://scraps.sbs
   theme: light
   customCss: |
@@ -18,7 +26,6 @@ status-website:
       position: relative;
     }
     
-    /* Signature Scraps Noise Overlay */
     body::after {
       content: "";
       position: fixed;
@@ -32,7 +39,6 @@ status-website:
       background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
     }
 
-    /* Links and Typography */
     a {
       color: #7856b8 !important;
       font-weight: 900 !important;
@@ -53,7 +59,6 @@ status-website:
       letter-spacing: 0.05em;
     }
 
-    /* Layout borders */
     header, nav {
       background-color: transparent !important;
       border-bottom: 1px dashed rgba(120, 86, 184, 0.4) !important;
@@ -66,7 +71,6 @@ status-website:
       letter-spacing: 2px;
     }
 
-    /* Signature Torn Paper Cards */
     section, .card {
       background-color: #f0e8ff !important;
       box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.12) !important;
@@ -77,7 +81,6 @@ status-website:
       margin-bottom: 20px !important;
     }
 
-    /* Uptime Number styling */
     .text-4xl, .text-5xl, .text-green-500 {
       color: #b026ff !important;
       font-weight: 900 !important;
