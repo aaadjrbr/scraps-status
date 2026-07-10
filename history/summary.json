@@ -4,18 +4,20 @@
     "url": "https://scraps.sbs",
     "icon": "https://icons.duckduckgo.com/ip3/scraps.sbs.ico",
     "slug": "scraps-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1796,
-    "timeDay": 5831,
-    "timeWeek": 3101,
-    "timeMonth": 2003,
-    "timeYear": 1796,
-    "dailyMinutesDown": {}
+    "time": 1768,
+    "timeDay": 3008,
+    "timeWeek": 2736,
+    "timeMonth": 1944,
+    "timeYear": 1768,
+    "dailyMinutesDown": {
+      "2026-07-10": 0
+    }
   },
   {
     "name": "Forgot Password",
