@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/scraps.sbs.ico",
     "slug": "scraps-homepage",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.90%",
-    "time": 1718,
-    "timeDay": 309,
-    "timeWeek": 1766,
-    "timeMonth": 1946,
-    "timeYear": 1718,
+    "uptimeYear": "99.91%",
+    "time": 1755,
+    "timeDay": 4587,
+    "timeWeek": 1986,
+    "timeMonth": 1949,
+    "timeYear": 1755,
     "dailyMinutesDown": {
       "2026-07-10": 91
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 247,
-    "timeWeek": 262,
-    "timeMonth": 309,
+    "timeDay": 255,
+    "timeWeek": 274,
+    "timeMonth": 302,
     "timeYear": 287,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 244,
-    "timeWeek": 255,
+    "time": 381,
+    "timeDay": 254,
+    "timeWeek": 270,
     "timeMonth": 533,
-    "timeYear": 383,
+    "timeYear": 381,
     "dailyMinutesDown": {}
   }
 ]
