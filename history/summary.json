@@ -4,19 +4,20 @@
     "url": "https://scraps.sbs",
     "icon": "https://icons.duckduckgo.com/ip3/scraps.sbs.ico",
     "slug": "scraps-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.92%",
-    "time": 1834,
-    "timeDay": 499,
-    "timeWeek": 2379,
-    "timeMonth": 2107,
-    "timeYear": 1834,
+    "time": 1815,
+    "timeDay": 347,
+    "timeWeek": 2106,
+    "timeMonth": 2051,
+    "timeYear": 1815,
     "dailyMinutesDown": {
-      "2026-07-10": 91
+      "2026-07-10": 91,
+      "2026-08-08": 1
     }
   },
   {
@@ -24,35 +25,39 @@
     "url": "https://scraps.sbs/forgot-password",
     "icon": "https://icons.duckduckgo.com/ip3/scraps.sbs.ico",
     "slug": "forgot-password",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 570,
-    "timeWeek": 435,
-    "timeMonth": 330,
-    "timeYear": 301,
-    "dailyMinutesDown": {}
+    "time": 299,
+    "timeDay": 340,
+    "timeWeek": 394,
+    "timeMonth": 323,
+    "timeYear": 299,
+    "dailyMinutesDown": {
+      "2026-08-08": 0
+    }
   },
   {
     "name": "Sign Up",
     "url": "https://scraps.sbs/signup",
     "icon": "https://icons.duckduckgo.com/ip3/scraps.sbs.ico",
     "slug": "sign-up",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 387,
-    "timeWeek": 347,
-    "timeMonth": 447,
-    "timeYear": 375,
-    "dailyMinutesDown": {}
+    "time": 374,
+    "timeDay": 340,
+    "timeWeek": 340,
+    "timeMonth": 442,
+    "timeYear": 374,
+    "dailyMinutesDown": {
+      "2026-08-08": 0
+    }
   }
 ]
